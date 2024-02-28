@@ -1,0 +1,13 @@
+D:\ChatComAutenticacao\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\ChatComAutenticacao\Domain\bin\Debug\net8.0\Domain.dll
+D:\ChatComAutenticacao\Domain\bin\Debug\net8.0\Domain.pdb
+D:\ChatComAutenticacao\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\ChatComAutenticacao\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChatComAutenticacao\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\ChatComAutenticacao\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\ChatComAutenticacao\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\ChatComAutenticacao\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\ChatComAutenticacao\Domain\obj\Debug\net8.0\Domain.dll
+D:\ChatComAutenticacao\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\ChatComAutenticacao\Domain\obj\Debug\net8.0\Domain.pdb
+D:\ChatComAutenticacao\Domain\obj\Debug\net8.0\ref\Domain.dll
